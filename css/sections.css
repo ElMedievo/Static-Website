@@ -1,0 +1,42 @@
+#title {
+	font-family: "Cambria";
+	font-size: 20px;
+	color: white;
+	text-shadow: 1.5px 1.5px black;
+	position: absolute;
+	left: 30px;
+}
+#subtitle {
+	font-family: "Cambria";
+	font-size: 20px;
+	color: white;
+	text-shadow: 1.5px 1.5px black;
+	position: absolute;
+	left: 60px;
+}
+#spacer {
+	position: relative;
+	top: 55px;
+}
+div.head1 {
+	position: absolute;
+	width: 90px;
+	height: 90px;
+	left: 30px;
+	top: 125px;
+}
+.headtext1 {
+	font-family: Arial;
+	font-size: 22px
+}
+.head2 {
+	position: absolute;
+	width: 90px;
+	height: 90px;
+	left: 30px;
+	top: 350px;
+}
+.headtext2 {
+	font-family: Arial;
+	font-size: 22px
+}

@@ -1,0 +1,32 @@
+#title {
+	font-family: "Cambria";
+	font-size: 75px;
+	color: white;
+	text-shadow: 4.5px 4.5px black;
+	position: absolute;
+	left: 60px;
+}
+.sections {
+	font-family: "Cambria";
+	font-size: 25px;
+	color: white;
+	text-shadow: 1px 1px black;
+	position: absolute;
+	top: 138px;
+}
+#rules {
+	position: absolute;
+	left: 700px;
+}
+#staff {
+	position: absolute;
+	left: 820px;
+}
+#shop {
+	position: absolute;
+	left: 940px;
+}
+#spacer {
+	position: relative;
+	top: 165px;
+}
