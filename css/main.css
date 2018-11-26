@@ -1,32 +1,80 @@
-#title {
+div.head {
 	font-family: "Cambria";
-	font-size: 75px;
-	color: white;
-	text-shadow: 4.5px 4.5px black;
-	position: absolute;
-	left: 60px;
+	color: #e4e4e4;
 }
-.sections {
-	font-family: "Cambria";
+div.refs {
 	font-size: 25px;
-	color: white;
-	text-shadow: 1px 1px black;
-	position: absolute;
-	top: 138px;
+	text-shadow: 1.5px 1.5px black;
+	position: relative;
+	top: -135px;
+	margin-left: 600px;
 }
-#rules {
-	position: absolute;
-	left: 700px;
+div.langs {
+	font-size: 20px;
+	text-shadow: 1.5px 1.5px black;
+	position: relative;
+	top: -145px;
+	margin-left: 150px;
 }
-#staff {
-	position: absolute;
-	left: 820px;
-}
-#shop {
-	position: absolute;
-	left: 940px;
+#title {
+	font-size: 75px;
+	text-shadow: 4.5px 4.5px black;
+	position: relative;
+	left: 60px;
+	top: -25px;
 }
 #spacer {
 	position: relative;
-	top: 165px;
+	top: -140px;
 }
+#ip {
+	font-family: "Lucida Console";
+	font-size: 20px;
+	position: relative;
+	right: 65px;
+	top: 5px;
+}
+.ref {
+	text-decoration-line: none;
+	color: inherit; 
+  	-o-transition: color .2s ease-out, background 2s ease-in;
+  	-ms-transition: color .2s ease-out, background 2s ease-in;
+  	-moz-transition: color .2s ease-out, background 2s ease-in;
+  	-webkit-transition: color .2s ease-out, background 2s ease-in;
+  	transition: color .2s ease-out, background 2s ease-in;
+}
+.ref:hover {
+	color: #53ff9f;
+}
+.lang_ref {
+	text-decoration-line: none;
+	color: inherit; 
+  	-o-transition: color .2s ease-out, background 2s ease-in;
+  	-ms-transition: color .2s ease-out, background 2s ease-in;
+  	-moz-transition: color .2s ease-out, background 2s ease-in;
+  	-webkit-transition: color .2s ease-out, background 2s ease-in;
+  	transition: color .2s ease-out, background 2s ease-in;
+}
+.lang_ref:hover {
+	color: #c90046;
+}
+div.text_title {
+	font-family: "Cambria";
+	font-size: 50px;
+	text-shadow: 2.5px 2.5px black;
+	color: #e4e4e4;
+	position: relative;
+	top: -120px;
+}
+div.text_body {
+	font-family: "Cambria";
+	font-size: 25px;
+	text-shadow: 1.75px 1.75px black;
+	color: #e4e4e4;
+	position: relative;
+	top: -120px;
+	text-align: justify;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
