@@ -17,3 +17,13 @@ div.rules_enum {
 	margin-left: 50px;
 	top: -120px;
 }
+div.diamond_section {
+	font-family: "Cambria";
+	font-size: 28px;
+	text-shadow: 1.5px 1.5px black;
+	color: #e4e4e4;
+	position: relative;
+	margin-top: -30px;
+	margin-left: 50px;
+	top: -120px;
+}
