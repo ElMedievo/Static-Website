@@ -1,0 +1,19 @@
+div.letter_section {
+	font-family: "Cambria";
+	font-size: 35px;
+	text-shadow: 1.5px 1.5px black;
+	color: #e4e4e4;
+	position: relative;
+	margin-left: 30px;
+	top: -120px;
+}
+div.rules_enum {
+	font-family: "Cambria";
+	font-size: 20px;
+	text-shadow: 1.5px 1.5px black;
+	color: #e4e4e4;
+	position: relative;
+	margin-top: -30px;
+	margin-left: 50px;
+	top: -120px;
+}

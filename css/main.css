@@ -58,6 +58,18 @@ div.langs {
 .lang_ref:hover {
 	color: #c90046;
 }
+.home_ref {
+	text-decoration-line: none;
+	color: inherit; 
+  	-o-transition: color .2s ease-out, background 2s ease-in;
+  	-ms-transition: color .2s ease-out, background 2s ease-in;
+  	-moz-transition: color .2s ease-out, background 2s ease-in;
+  	-webkit-transition: color .2s ease-out, background 2s ease-in;
+  	transition: color .2s ease-out, background 2s ease-in;
+}
+.home_ref:hover {
+	color: #c90046;
+}
 div.text_title {
 	font-family: "Cambria";
 	font-size: 50px;
