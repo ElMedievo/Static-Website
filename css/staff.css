@@ -84,9 +84,10 @@ div.heads {
 	font-size: 20px;
 	text-shadow: 1px 1px black;
 	position: relative;
-	top: -110px;
-	margin-left: 62.5px;
-	color: #ff912d;
+	top: -70px;
+	margin-left: -80px;
+	color: #ff8417;
+	display: inline-block;
 }
 #bgmp {
 	position: relative;
@@ -121,16 +122,17 @@ div.heads {
 #esservil {
 	position: relative;
 	margin-left: 50px;
-	top: -80px;
+	top: -110px;
 }
 .esservil {
 	font-family: "Arial";
 	font-size: 20px;
 	text-shadow: 1px 1px black;
 	position: relative;
-	top: -80px;
-	margin-left: 55px;
-	color: #9e0000;
+	top: -70px;
+	margin-left: -89px;
+	color: #ff8417;
+	display: inline-block;
 }
 #ferrada {
 	position: relative;
@@ -144,7 +146,7 @@ div.heads {
 	position: relative;
 	top: -40px;
 	margin-left: -85px;
-	color: #ff2323;
+	color: #9e0000;
 	display: inline-block;
 }
 #doce {
@@ -174,6 +176,6 @@ div.heads {
 	position: relative;
 	top: -40px;
 	margin-left: -85px;
-	color: #db086a;
+	color: #ff2323;
 	display: inline-block;
 }
